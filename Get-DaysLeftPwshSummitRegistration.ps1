@@ -1,4 +1,4 @@
-function Get-DaysLeftPowerShellSummitRegistration {
+function Get-DaysLeftPwshSummitRegistration {
  
     <#
         Created By: Bill Kindle

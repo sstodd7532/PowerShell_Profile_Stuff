@@ -18,6 +18,9 @@ function Get-DaysLeftPwshSummitRegistration {
     $Days = ($RegDay - $Today)
 
     # write-Host is terrible, but hey, you are supposed to be looking at this. 
+    Write-Host -ForegroundColor Black -Backgroundcolor Yellow `
+        "The next PowerShell + DevOps Summit is April 29th 2019"
+
     Write-Host -ForegroundColor White -BackgroundColor Blue `
         "There are $Days days left until PowerShell Summit 2019 Registration opens!"    
 }

@@ -1,4 +1,4 @@
-function Get-DaysLeftPwshSummitRegistration {
+function Get-DaysLeftPwshSummit {
  
     <#
         Created By: Bill Kindle
